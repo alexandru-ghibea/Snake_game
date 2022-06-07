@@ -15,3 +15,7 @@
     #TODO 6. Detect collision with wall
     
     #TODO 7. Detect collision with tail/body of the snake
+    
+    Update 12.06.2022 with TODO 8. Keep track of high score
+    
+
