@@ -7,6 +7,7 @@
     #TODO 5. Create Scoreboard
     #TODO 6. Detect collision with wall
     #TODO 7. Detect collision with tail/body of the snake
+    #TODO 8. Keep track of high score
 
 #TODO 0: Set up the Screen
 from turtle import Screen, Turtle
